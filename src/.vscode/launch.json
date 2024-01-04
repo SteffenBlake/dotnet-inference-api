@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cs",
+            "name": "netcoredbg",
+            "request": "launch",
+            "program": "Inference.Api.dll",
+            "cwd": "${workspaceFolder}/bin/Debug/net8.0/"
+        }
+    ]
+
+}
